@@ -1,29 +1,29 @@
-🏥 JaruratCare – AI-Enabled Healthcare Support Web App
+🏥 JaruratCare – AI-Enabled Healthcare Support Web App /n
 
-JaruratCare is a concept-level healthcare support web application designed to help NGOs and healthcare organizations manage patient requests efficiently using AI-assisted triaging and automation.
-This project focuses on clarity, usability, and visual design, rather than backend complexity.
+JaruratCare is a concept-level healthcare support web application designed to help NGOs and healthcare organizations manage patient requests efficiently using AI-assisted triaging and automation. /n
+This project focuses on clarity, usability, and visual design, rather than backend complexity. /n
 
-Project Highlights
+Project Highlights /n
 
-🧠 AI-assisted support concept (smart request categorization)
-🏥 Healthcare-focused UI with hospital & medicine illustrations
-✨ Interactive visuals (hover effects, floating images)
-🎨 Modern pastel design with animated background blobs
-📝 Support registration form for patient requests
-📊 Analytics cards for quick NGO insights
-📱 Responsive layout for different screen sizes
+🧠 AI-assisted support concept (smart request categorization) /n
+🏥 Healthcare-focused UI with hospital & medicine illustrations /n
+✨ Interactive visuals (hover effects, floating images) /n
+🎨 Modern pastel design with animated background blobs /n
+📝 Support registration form for patient requests /n
+📊 Analytics cards for quick NGO insights /n
+📱 Responsive layout for different screen sizes /n
 
-🛠️ Tech Stack
+🛠️ Tech Stack /n
 
-HTML5 – Page structure
-CSS3 – Styling, animations, hover effects
-Google Fonts – Modern, Gen-Z + professional typography
-SVG Illustrations – Scalable healthcare visuals
-Live Server – Local development preview
+HTML5 – Page structure /n
+CSS3 – Styling, animations, hover effects /n
+Google Fonts – Modern, Gen-Z + professional typography /n
+SVG Illustrations – Scalable healthcare visuals /n
+Live Server – Local development preview /n
 
-JaruratCare can be used by:
+JaruratCare can be used by: /n
 
-NGOs handling medical aid requests
-Community healthcare programs
-Emergency support coordination teams
-AI-assisted patient help desks
+NGOs handling medical aid requests /n
+Community healthcare programs /n
+Emergency support coordination teams /n
+AI-assisted patient help desks /n
